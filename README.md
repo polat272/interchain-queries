@@ -124,6 +124,6 @@ Sent batch of 2 (deduplicated) messages
 ```
 
 **Tx'leri, explorerdan Kontrol Edelim**
->https://poolparty.stride.zone/GAIA
->https://poolparty.stride.zone/STRIDE
->https://stride.explorers.guru/
+>https://poolparty.stride.zone/GAIA<
+>https://poolparty.stride.zone/STRIDE<
+>https://stride.explorers.guru/<
